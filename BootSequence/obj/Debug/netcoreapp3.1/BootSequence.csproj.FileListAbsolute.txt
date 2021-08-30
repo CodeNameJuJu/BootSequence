@@ -1,0 +1,13 @@
+C:\Users\Julian\source\repos\BootSequence\BootSequence\bin\Debug\netcoreapp3.1\BootSequence.exe
+C:\Users\Julian\source\repos\BootSequence\BootSequence\bin\Debug\netcoreapp3.1\BootSequence.deps.json
+C:\Users\Julian\source\repos\BootSequence\BootSequence\bin\Debug\netcoreapp3.1\BootSequence.runtimeconfig.json
+C:\Users\Julian\source\repos\BootSequence\BootSequence\bin\Debug\netcoreapp3.1\BootSequence.runtimeconfig.dev.json
+C:\Users\Julian\source\repos\BootSequence\BootSequence\bin\Debug\netcoreapp3.1\BootSequence.dll
+C:\Users\Julian\source\repos\BootSequence\BootSequence\bin\Debug\netcoreapp3.1\BootSequence.pdb
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.AssemblyInfo.cs
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.dll
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.pdb
+C:\Users\Julian\source\repos\BootSequence\BootSequence\obj\Debug\netcoreapp3.1\BootSequence.genruntimeconfig.cache
