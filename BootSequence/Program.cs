@@ -8,6 +8,7 @@ namespace BootSequence
         static void Main(string[] args)
         {
             Boot();
+            StartMenu();
         }
 
         static void Boot()
@@ -76,24 +77,28 @@ namespace BootSequence
         static void Google()
         {
 
+            Console.WriteLine("Google");
 
         }
 
         static void Beat()
         {
 
+            Console.WriteLine("Beat");
 
         }
 
         static void Speak()
         {
 
+            Console.WriteLine("Speak");
 
         }
 
         static void Explore()
         {
 
+            Console.WriteLine("Explore");
 
         }
     }
