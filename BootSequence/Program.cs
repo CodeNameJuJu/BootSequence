@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Speech.Synthesis;
 using System.Threading;
 
 namespace BootSequence
@@ -13,8 +12,6 @@ namespace BootSequence
 
         static void Boot()
         {
-            SpeechSynthesizer synth = new SpeechSynthesizer();
-            synth.SetOutputToDefaultAudioDevice();
 
             Console.WriteLine("-----------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("\t\t\t\t\t\t Boot Sequence");
